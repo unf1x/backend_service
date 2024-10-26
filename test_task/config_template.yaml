@@ -1,0 +1,5 @@
+blockchain:
+  private_key: "your_private_key"
+  infura_url: "your_provider_url"
+  contract_address: "address_of_your_contract"
+  contract_abi: 'abi_of_your_contract'
